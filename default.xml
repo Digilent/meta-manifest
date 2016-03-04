@@ -16,7 +16,7 @@
   <!-- Default layers -->
   <project name="poky" remote="poky" path="poky"/>
   <project name="meta-openembedded" remote="meta-oe" path="meta-openembedded"/>
-  <project name="socnix-lab/meta-xilinx" remote="github" path="meta-xilinx" revision="jethro-digilent"/>
+  <project name="Digilent/meta-xilinx" remote="github" path="meta-xilinx"/>
   <project name="Digilent/ZYBO" remote="github" path="ZYBO" revision="master"/>
 
 </manifest>

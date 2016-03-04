@@ -16,7 +16,7 @@ Initializing Repository
 
 Initiate core trees:
 
-    $ repo init -u https://github.com/socnix-lab/digilent_platform_support.git -b jethro
+    $ repo init -u https://github.com/Digilent/meta-manifest.git -b jethro
 
 Sync the repository:
 
